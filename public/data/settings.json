@@ -1,12 +1,12 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
+    "name": "GDG Ohio",
     "twitter": "gdglviv",
     "blog": "https://medium.com/gdg-lviv",
     "url": "http://lviv.gdg.org.ua/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2023-02-113T09:00:00+03:00",
+  "endDate": "2023-12-11T19:00:00+03:00",
   "webapp": {
     "shortName": "DevFest",
     "themeColor": "#673AB7",
@@ -121,20 +121,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "name": "Ohio State University",
+    "city": "Columbus",
+    "short": "Columbus, Ohio",
+    "address": "281 W Lane Ave, Columbus, OH 43210",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 5
+      "latitude": 40.0067,
+      "longitude": -83.0305,
+      "zoom": 6
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 40,
+      "longitude": -83
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "TBD at OSU"
   },
   "socialNetwork": {
     "follow": [
@@ -144,15 +144,15 @@
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/devfest.Ohio/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "https://twitter.com/devfest_Ohio/"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "url": "https://www.instagram.com/devfestOhio"
       },
       {
         "name": "youtube",
