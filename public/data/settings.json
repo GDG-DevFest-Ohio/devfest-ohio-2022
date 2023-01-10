@@ -36,6 +36,7 @@
   ],
   "heroSettings": {
     "home": {
+      "title": "We're back!",
       "description": "Join the commuity, learn new things!",
       "background": {
         "color": "#673ab7",

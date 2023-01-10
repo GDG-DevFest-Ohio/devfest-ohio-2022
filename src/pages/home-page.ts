@@ -161,19 +161,11 @@ export class HomePage extends ReduxMixin(PolymerElement) {
           <lazy-image class="hero-logo" src="/images/logo.svg" alt="[[siteTitle]]"></lazy-image>
 
           <div class="info-items">
-            <div class="info-item">[[city]]. [[dates]]</div>
-            <div class="info-item">[[heroSettings.description]]</div>
-          </div>
-
-          <div class="action-buttons" layout horizontal center-justified wrap>
-            <paper-button class="watch-video" on-click="playVideo">
-              <iron-icon icon="hoverboard:movie"></iron-icon>
-              [[viewHighlights]]
-            </paper-button>
-            <paper-button on-click="scrollToTickets" primary invert>
-              <iron-icon icon="hoverboard:ticket"></iron-icon>
-              [[buyTicket]]
-            </paper-button>
+            <div class="info-item">Ohio DevFest is back in 2023!</div>
+            <div class="info-item">Are you ready to join the commuity, reconnect with peers, and learn new things?</div>
+            <br/>
+            <div class="info-item">The Ohio State University</div>
+            <div class="info-item">February 11, 2023</div>
           </div>
 
           <div class="scroll-down" on-click="scrollNextBlock">
