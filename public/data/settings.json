@@ -1,14 +1,14 @@
 {
   "organizer": {
-    "name": "GDG Ohio",
-    "twitter": "gdglviv",
-    "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "name": "Ohio DevFest",
+    "twitter": "ohiodevfest",
+    "blog": "https://ohiodevfest.com",
+    "url": "https://ohiodevfest.com"
   },
   "startDate": "2023-02-113T09:00:00+03:00",
   "endDate": "2023-12-11T19:00:00+03:00",
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "Ohio DevFest",
     "themeColor": "#673AB7",
     "backgroundColor": "#673AB7"
   },
@@ -32,16 +32,6 @@
       "route": "schedule",
       "permalink": "/schedule",
       "label": "Schedule"
-    },
-    {
-      "route": "team",
-      "permalink": "/team",
-      "label": "Team"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog",
-      "label": "Blog"
     }
   ],
   "heroSettings": {
@@ -121,42 +111,26 @@
   },
   "location": {
     "label": "Location",
-    "name": "Ohio State University",
+    "name": "The Ohio Union at The Ohio State University",
     "city": "Columbus",
     "short": "Columbus, Ohio",
-    "address": "281 W Lane Ave, Columbus, OH 43210",
+    "address": "1739 N High St, Columbus, OH 43210",
     "pointer": {
       "latitude": 40.0067,
       "longitude": -83.0305,
-      "zoom": 6
+      "zoom": 7
     },
     "mapCenter": {
       "latitude": 40,
       "longitude": -83
     },
-    "description": "TBD at OSU"
+    "description": "The Ohio Union at The Ohio State University"
   },
   "socialNetwork": {
     "follow": [
       {
-        "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/devfest.Ohio/"
-      },
-      {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_Ohio/"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/devfestOhio"
-      },
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://twitter.com/ohiodevfest/"
       }
     ],
     "share": [
@@ -170,7 +144,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "contact@ohiodevfest.com",
   "signInProviders": {
     "providersData": [
       {
@@ -207,5 +181,8 @@
       "itemsCount": 5
     }
   },
-  "showForkMeBlockForProjectIds": ["hoverboard-master", "hoverboard-dev"]
+  "showForkMeBlockForProjectIds": [
+    "hoverboard-master",
+    "hoverboard-dev"
+  ]
 }

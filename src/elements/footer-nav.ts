@@ -68,20 +68,13 @@ export class FooterNav extends PolymerElement {
       </style>
 
       <div class="nav-inline" layout flex>
-        <a href="[[organizer.url]]" target="_blank" rel="noopener noreferrer">
-          <lazy-image
-            class="footer-logo"
-            src="../../images/organizer-logo.svg"
-            alt="[[organizer.name]]"
-          ></lazy-image>
-        </a>
+        
 
         <div class="copyright">
           Based on
           <a href="https://github.com/gdg-x/hoverboard" target="_blank" rel="noopener noreferrer"
             >Project Hoverboard</a
           >
-          · <a class="coc" href="/coc">[[codeOfConduct]]</a>
         </div>
       </div>
     `;

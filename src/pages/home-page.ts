@@ -7,12 +7,9 @@ import '../components/about-block';
 import '../components/hero/hero-block';
 import { HeroBlock } from '../components/hero/hero-block';
 import '../elements/about-organizer-block';
-import '../elements/featured-videos';
 import '../elements/fork-me-block';
 import '../elements/gallery-block';
-import '../elements/latest-posts-block';
 import '../elements/map-block';
-import '../elements/partners-block';
 import '../elements/speakers-block';
 import '../elements/subscribe-block';
 import '../elements/tickets-block';
@@ -255,10 +252,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
       <tickets-block id="tickets-block"></tickets-block>
       <gallery-block></gallery-block>
       <about-organizer-block></about-organizer-block>
-      <featured-videos></featured-videos>
-      <latest-posts-block></latest-posts-block>
       <map-block></map-block>
-      <partners-block></partners-block>
       <footer-block></footer-block>
     `;
   }
