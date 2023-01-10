@@ -8,11 +8,8 @@ import '../components/hero/hero-block';
 import { HeroBlock } from '../components/hero/hero-block';
 import '../elements/about-organizer-block';
 import '../elements/fork-me-block';
-import '../elements/gallery-block';
 import '../elements/map-block';
 import '../elements/speakers-block';
-import '../elements/subscribe-block';
-import '../elements/tickets-block';
 import { firebaseApp } from '../firebase';
 import { store } from '../store';
 import { ReduxMixin } from '../store/mixin';
@@ -243,14 +240,8 @@ export class HomePage extends ReduxMixin(PolymerElement) {
           </div>
         </div>
       </hero-block>
-      <template is="dom-if" if="{{showForkMeBlock}}">
-        <fork-me-block></fork-me-block>
-      </template>
       <about-block></about-block>
       <speakers-block></speakers-block>
-      <subscribe-block></subscribe-block>
-      <tickets-block id="tickets-block"></tickets-block>
-      <gallery-block></gallery-block>
       <about-organizer-block></about-organizer-block>
       <map-block></map-block>
       <footer-block></footer-block>
