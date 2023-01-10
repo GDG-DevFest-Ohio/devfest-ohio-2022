@@ -282,8 +282,8 @@
     "image": "/images/team.jpg",
     "blocks": [
       {
-        "title": "Organizer",
-        "description": "GDG Ohio with support of 10 GDGs from all around Ohio is proud organizer of DevFest Ohio",
+        "title": "Organizers",
+        "description": "Ohio DevFest is proudly put together by GDG communities from all corners of Ohio!",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
@@ -291,7 +291,7 @@
       },
       {
         "title": "What is a GDG?",
-        "description": "A Google Developer Group is a community of volunteers who create exciting projects and share experiences about Google technologies.",
+        "description": "A Google Developer Group is a community of volunteers who create exciting projects and share experiences about Google technologies and so much more!",
         "callToAction": {
           "label": "Read more",
           "link": "https://developers.google.com/groups/",
