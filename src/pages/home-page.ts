@@ -7,15 +7,9 @@ import '../components/about-block';
 import '../components/hero/hero-block';
 import { HeroBlock } from '../components/hero/hero-block';
 import '../elements/about-organizer-block';
-import '../elements/featured-videos';
 import '../elements/fork-me-block';
-import '../elements/gallery-block';
-import '../elements/latest-posts-block';
 import '../elements/map-block';
-import '../elements/partners-block';
 import '../elements/speakers-block';
-import '../elements/subscribe-block';
-import '../elements/tickets-block';
 import { firebaseApp } from '../firebase';
 import { store } from '../store';
 import { ReduxMixin } from '../store/mixin';
@@ -53,11 +47,11 @@ export class HomePage extends ReduxMixin(PolymerElement) {
 
         .hero-logo {
           --lazy-image-width: 100%;
-          --lazy-image-height: 76px;
+          --lazy-image-height: 128px;
           width: var(--lazy-image-width);
           height: var(--lazy-image-height);
-          max-width: 240px;
-          max-height: 76px;
+          max-width: 320px;
+          max-height: 128px;
         }
 
         .info-items {
@@ -167,19 +161,13 @@ export class HomePage extends ReduxMixin(PolymerElement) {
           <lazy-image class="hero-logo" src="/images/logo.svg" alt="[[siteTitle]]"></lazy-image>
 
           <div class="info-items">
-            <div class="info-item">[[city]]. [[dates]]</div>
-            <div class="info-item">[[heroSettings.description]]</div>
-          </div>
-
-          <div class="action-buttons" layout horizontal center-justified wrap>
-            <paper-button class="watch-video" on-click="playVideo">
-              <iron-icon icon="hoverboard:movie"></iron-icon>
-              [[viewHighlights]]
-            </paper-button>
-            <paper-button on-click="scrollToTickets" primary invert>
-              <iron-icon icon="hoverboard:ticket"></iron-icon>
-              [[buyTicket]]
-            </paper-button>
+            <div class="info-item" style="font-weight: bold">Ohio DevFest is back!</div>
+            <br/>
+            <div class="info-item">Interact with the commuity. Reconnect with peers. Learn new things.</div>
+            <div class="info-item">Are you ready to join us?</div>
+            <br/>
+            <div class="info-item">The Ohio State University</div>
+            <div class="info-item">February 11, 2023</div>
           </div>
 
           <div class="scroll-down" on-click="scrollNextBlock">
@@ -246,19 +234,10 @@ export class HomePage extends ReduxMixin(PolymerElement) {
           </div>
         </div>
       </hero-block>
-      <template is="dom-if" if="{{showForkMeBlock}}">
-        <fork-me-block></fork-me-block>
-      </template>
       <about-block></about-block>
       <speakers-block></speakers-block>
-      <subscribe-block></subscribe-block>
-      <tickets-block id="tickets-block"></tickets-block>
-      <gallery-block></gallery-block>
       <about-organizer-block></about-organizer-block>
-      <featured-videos></featured-videos>
-      <latest-posts-block></latest-posts-block>
       <map-block></map-block>
-      <partners-block></partners-block>
       <footer-block></footer-block>
     `;
   }

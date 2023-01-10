@@ -78,12 +78,6 @@ export class AboutBlock extends ThemedElement {
               <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
             </paper-button>
           </a>
-
-          <p>${aboutBlock.callToAction.howItWas.description}</p>
-          <paper-button class="animated icon-right" @click="${this.playVideo}">
-            <span>${aboutBlock.callToAction.howItWas.label}</span>
-            <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
-          </paper-button>
         </div>
 
         <div class="statistics-block">
