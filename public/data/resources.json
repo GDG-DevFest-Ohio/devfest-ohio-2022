@@ -1,5 +1,5 @@
 {
-  "title": "GDG DevFest Ohio",
+  "title": "Ohio DevFest",
   "description": "Join the community, learn new things!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
@@ -105,7 +105,7 @@
     "title": "About",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ohio brings together the world class experts in Android, Web and Cloud technologies to Columbus for 1 day of sessions, workshops and showcases.",
+        "description": "Ohio DevFest brings together the world class experts in Android, Web and Cloud technologies to Columbus for 1 day of sessions, workshops and showcases.",
         "label": "Explore featured session",
         "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       },
@@ -209,7 +209,7 @@
     "emailAddress": "Email Address",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ohio sent to your inbox.",
+    "formTitle": "Get the latest updates, insights and news about Ohio DevFest sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
     "fieldRequired": "Field required.",
     "subscribe": "Subscribe",
