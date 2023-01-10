@@ -161,8 +161,10 @@ export class HomePage extends ReduxMixin(PolymerElement) {
           <lazy-image class="hero-logo" src="/images/logo.svg" alt="[[siteTitle]]"></lazy-image>
 
           <div class="info-items">
-            <div class="info-item">Ohio DevFest is back in 2023!</div>
-            <div class="info-item">Are you ready to join the commuity, reconnect with peers, and learn new things?</div>
+            <div class="info-item" style="font-weight: bold">Ohio DevFest is back!</div>
+            <br/>
+            <div class="info-item">Interact with the commuity. Reconnect with peers. Learn new things.</div>
+            <div class="info-item">Are you ready to join us?</div>
             <br/>
             <div class="info-item">The Ohio State University</div>
             <div class="info-item">February 11, 2023</div>
