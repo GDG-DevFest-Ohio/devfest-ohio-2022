@@ -27,19 +27,12 @@ Exhibiting partners, sponsors or vendor booths, or similar activities are also s
 
 Harassment at events and in online communities is unfortunately common. Creating an official policy aims to improve this by making it clear that harassment of anyone for any reason is not acceptable within our events and communities. This policy may prevent harassment by clearly defining expectations for behavior, aims to provide reassurance, and encourages people who have had bad experiences at other events to participate in this one.
 
+### Report incident
+
+To report an incident look for a staff member by badge/attire or email the {{ title }} organizers at {{ codeOfConductBlock.email }}.
+
 ### License and attribution
 
 This policy is [licensed](https://support.google.com/developergroups/answer/3340512) under the [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 This policy is based on and influenced by several other community policies including Ohio LinuxFest Anti-Harassment policy, Con Anti-Harassment Project, Geek Feminism Wiki (created by the Ada Initiative), ConfCodeofConduct.com, JSconf, Rust, Diversity in Python, and Write/Speak/Code.
-
-### Report incident
-
-To report an incident look for a staff member by badge/attire or contact our incident response team below:
-{% for contact in codeOfConductBlock.contacts %}
-
-- {{ contact }}{% endfor %}
-
-#### Anonymous report
-
-You can make an anonymous report [here]({{ codeOfConductBlock.form }}). We can't follow up with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.
