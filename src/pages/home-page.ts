@@ -10,6 +10,7 @@ import '../elements/about-organizer-block';
 import '../elements/fork-me-block';
 import '../elements/map-block';
 import '../elements/speakers-block';
+import '../elements/partners-block';
 import { firebaseApp } from '../firebase';
 import { store } from '../store';
 import { ReduxMixin } from '../store/mixin';
@@ -236,6 +237,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
       </hero-block>
       <about-block></about-block>
       <speakers-block></speakers-block>
+      <partners-block></partners-block>
       <about-organizer-block></about-organizer-block>
       <map-block></map-block>
       <footer-block></footer-block>

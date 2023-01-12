@@ -142,7 +142,7 @@
     "save": "Save ${discount}% today"
   },
   "partnersBlock": {
-    "title": "Partners",
+    "title": "Sponsors",
     "button": "Become a partner",
     "form": {
       "title": "Become a partner!",
@@ -150,7 +150,54 @@
       "fullName": "Full Name",
       "companyName": "Company Name"
     },
-    "toast": "We will contact you soon!"
+    "toast": "We will contact you soon!",
+    "data": [
+      {
+        "title": "Event Sponsor",
+        "items": [
+          {
+            "name": "Google",
+            "url": "https://google.com",
+            "logoUrl": "/images/sponsors/google.svg"
+          }
+        ]
+      },
+      {
+        "title": "Bronze Sponsors",
+        "items": [
+          {
+            "name": "Atomic Robot",
+            "url": "https://atomicrobot.com",
+            "logoUrl": "/images/sponsors/atomic_robot.svg"
+          },
+          {
+            "name": "InfoTrust",
+            "url": "https://infotrust.com",
+            "logoUrl": "/images/sponsors/infotrust.png"
+          },
+          {
+            "name": "Invertase",
+            "url": "https://invertase.io",
+            "logoUrl": "/images/sponsors/invertase.svg"
+          }
+        ]
+      },
+      {
+        "title": "Copper Sponsors",
+        "items": [
+          {
+            "name": "Codemagic",
+            "url": "https://codemagic.io/",
+            "logoUrl": "/images/sponsors/codemagic.svg"
+          },
+          {
+            "name": "Stream.IO",
+            "url": "https://getstream.io",
+            "logoUrl": "/images/sponsors/streamio.svg"
+          }
+        ]
+      }
+    ]
   },
   "featuredVideos": {
     "title": "DFUA'16 featured videos",
