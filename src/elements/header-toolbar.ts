@@ -299,12 +299,7 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
 
   @computed('tickets')
   private get ticketUrl() {
-    if (this.tickets instanceof Success && this.tickets.data.length > 0) {
-      const availableTicket = this.tickets.data.find((ticket) => ticket.available);
-      return (availableTicket || this.tickets.data[0])?.url || '';
-    } else {
-      return '';
-    }
+    return 'https://www.eventbrite.com/e/ohio-devfest-2023-tickets-513534925787';
   }
 
   @observe('heroSettings')

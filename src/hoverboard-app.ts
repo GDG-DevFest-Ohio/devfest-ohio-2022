@@ -273,12 +273,6 @@ export class HoverboardApp extends PolymerElement {
 
   @computed('tickets')
   private get ticketUrl(): string {
-    if (this.tickets instanceof Success && this.tickets.data.length > 0) {
-      const availableTicket = this.tickets.data.find((ticket) => ticket.available);
-      const ticket = availableTicket || this.tickets.data[0];
-      return ticket?.url || '';
-    } else {
-      return '';
-    }
+    return 'https://www.eventbrite.com/e/ohio-devfest-2023-tickets-513534925787';
   }
 }
