@@ -168,9 +168,7 @@
           "endTime": "9:30",
           "sessions": [
             {
-              "items": [
-                "1"
-              ]
+              "items": ["1"]
             },
             {
               "items": []
@@ -185,9 +183,7 @@
           "endTime": "9:15",
           "sessions": [
             {
-              "items": [
-                "2"
-              ]
+              "items": ["2"]
             },
             {
               "items": []
@@ -205,14 +201,10 @@
               "items": []
             },
             {
-              "items": [
-                "6"
-              ]
+              "items": ["6"]
             },
             {
-              "items": [
-                "6"
-              ]
+              "items": ["6"]
             }
           ]
         },
@@ -224,14 +216,10 @@
               "items": []
             },
             {
-              "items": [
-                "6"
-              ]
+              "items": ["6"]
             },
             {
-              "items": [
-                "6"
-              ]
+              "items": ["6"]
             }
           ]
         },
@@ -243,14 +231,10 @@
               "items": []
             },
             {
-              "items": [
-                "6"
-              ]
+              "items": ["6"]
             },
             {
-              "items": [
-                "6"
-              ]
+              "items": ["6"]
             }
           ]
         },
@@ -259,9 +243,7 @@
           "endTime": "13:30",
           "sessions": [
             {
-              "items": [
-                "3"
-              ]
+              "items": ["3"]
             },
             {
               "items": []
@@ -279,14 +261,10 @@
               "items": []
             },
             {
-              "items": [
-                "6"
-              ]
+              "items": ["6"]
             },
             {
-              "items": [
-                "6"
-              ]
+              "items": ["6"]
             }
           ]
         },
@@ -298,14 +276,10 @@
               "items": []
             },
             {
-              "items": [
-                "6"
-              ]
+              "items": ["6"]
             },
             {
-              "items": [
-                "6"
-              ]
+              "items": ["6"]
             }
           ]
         },
@@ -314,9 +288,7 @@
           "endTime": "16:30",
           "sessions": [
             {
-              "items": [
-                "4"
-              ]
+              "items": ["4"]
             },
             {
               "items": []
@@ -331,9 +303,7 @@
           "endTime": "22:00",
           "sessions": [
             {
-              "items": [
-                "5"
-              ]
+              "items": ["5"]
             },
             {
               "items": []
@@ -387,12 +357,8 @@
       "description": "Doze mode is just around the corner. \nIntroduced in Marshmallow, as the shy guy that was allowed to step in only when your device went to sleep. ZzzZzzzz\nWith the new N release, Doze mode becomes the rockstar. He rushes into the room with a big shabang by shooting all background services and network requests that forgot to get away. \nHe should no longer be shy. He just shoots and dances on bones of your scheduled alarms, while you wonder why this particular task is no longer running.\nWith the new Doze mode, you require to adapt your app architecture to the new reality.\nOn this talk, we will learn how to survive Doze mode using Job Scheduler, Content Provider and stay in one piece.",
       "language": "English",
       "presentation": "https://speakerdeck.com/gdglviv/yonatan-levin-knock-knock-whos-there-doze",
-      "speakers": [
-        "yonatan_levin"
-      ],
-      "tags": [
-        "Android"
-      ],
+      "speakers": ["yonatan_levin"],
+      "tags": ["Android"],
       "title": "Knock knock! Who's there? Doze."
     },
     "104": {
@@ -400,12 +366,8 @@
       "description": "It's no longer just about digitizing our environment. It’s rather about pervasive and ubiquitous computing. Almost all everyday things will turn into connected devices soon. This “Internet of Things” will allow the Web to be physically tangible. But what is the value, and how can one prevent IoT applications which just seem to be only more expensive and complicated than conventional solutions. Sascha will discuss the purpose and guide you through this complex topic showing inspiring solutions, tips from practice, and code samples in a variety of technologies from simple Bluetooth Eddystone Beacons to more sophisticated IoT platforms like Eclipse SmartHome.",
       "language": "English",
       "presentation": "https://speakerdeck.com/gdglviv/sascha-wolter-the-physical-web-context-is-king",
-      "speakers": [
-        "sascha_wolter"
-      ],
-      "tags": [
-        "Web"
-      ],
+      "speakers": ["sascha_wolter"],
+      "tags": ["Web"],
       "title": "The Physical Web: Context is King!",
       "videoId": "fLfQNp75kbc"
     },
@@ -414,12 +376,8 @@
       "description": "TBD",
       "language": "English",
       "presentation": "https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow",
-      "speakers": [
-        "rustem_arzymbetov"
-      ],
-      "tags": [
-        "Cloud"
-      ],
+      "speakers": ["rustem_arzymbetov"],
+      "tags": ["Cloud"],
       "title": "Intro to TensorFlow",
       "videoId": "e3cuSz1hEPs"
     },
@@ -428,12 +386,8 @@
       "description": "Fuelio. Success story (I'll write more info later)",
       "language": "English",
       "presentation": "https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story",
-      "speakers": [
-        "adrian_kajda"
-      ],
-      "tags": [
-        "Android"
-      ],
+      "speakers": ["adrian_kajda"],
+      "tags": ["Android"],
       "title": "Fuelio. Success story",
       "videoId": "qK7ysoohsaM"
     },
@@ -442,12 +396,8 @@
       "description": "There's been much discussion about Progressive Web Apps. They're still a relatively new model. In this talk, I'll summarise few options and techniques for getting started with your own Progressive Web App",
       "extend": 2,
       "language": "English",
-      "speakers": [
-        "gerard_sans"
-      ],
-      "tags": [
-        "Web"
-      ],
+      "speakers": ["gerard_sans"],
+      "tags": ["Web"],
       "title": "Introduction to Progressive Web Apps in Angular 2"
     },
     "108": {
@@ -455,12 +405,8 @@
       "description": "Angular 2 introduces a new Data Architecture based on Reactive Programming using RxJS 5. We are really excited to see the new approach using Observable sequences aka Observables. We will cover a basic introduction of Angular 2 followed by RxJS 5 and the new HTTP API covering some basic use cases.",
       "language": "English",
       "presentation": "https://speakerdeck.com/gdglviv/gerard-sans-new-data-architecture-in-angular-2",
-      "speakers": [
-        "gerard_sans"
-      ],
-      "tags": [
-        "Web"
-      ],
+      "speakers": ["gerard_sans"],
+      "tags": ["Web"],
       "title": "New Data Architecture in Angular 2",
       "videoId": "pgmLkwD-mqM"
     },
@@ -469,12 +415,8 @@
       "description": "TBD",
       "language": "English",
       "presentation": "https://speakerdeck.com/gdglviv/jozef-vodicka-how-much-money-firebase-can-save-you",
-      "speakers": [
-        "jozef_vodicka"
-      ],
-      "tags": [
-        "Cloud"
-      ],
+      "speakers": ["jozef_vodicka"],
+      "tags": ["Cloud"],
       "title": "How much money Firebase can save you"
     },
     "110": {
@@ -482,12 +424,8 @@
       "description": "There's a lot of hype around MVP pattern in the Android world. Now it's time for concretes. During his presentation Mateusz will tell you how IG divided responsibilities between pattern's different components, how they tied Presenters' and Views' lifecycles and what they did to make it all testable. If you'd love to make your Fragments' and Activities' code simpler and increase your coverage, but you're confused how to glue it all together - don't miss Mateusz's talk.",
       "language": "English",
       "presentation": "https://speakerdeck.com/gdglviv/mateusz-herych-the-ultimate-guide-to-mvp-pattern-on-android",
-      "speakers": [
-        "mateusz_herych"
-      ],
-      "tags": [
-        "Android"
-      ],
+      "speakers": ["mateusz_herych"],
+      "tags": ["Android"],
       "title": "The ultimate guide to MVP pattern on Android"
     },
     "111": {
@@ -495,24 +433,16 @@
       "description": "It's beauty, it's handy, it's fast, it's easy - all about Dagger 2",
       "language": "English",
       "presentation": "https://speakerdeck.com/gdglviv/kseniia-shumelchyk-building-modular-architecture-apps-with-dagger-2",
-      "speakers": [
-        "david_mayboroda"
-      ],
-      "tags": [
-        "Android"
-      ],
+      "speakers": ["david_mayboroda"],
+      "tags": ["Android"],
       "title": "Building modular architecture apps with Dagger 2"
     },
     "112": {
       "complexity": "Intermediate",
       "description": "Last year brought a lot of new capabilities to browsers, fundamentally changing the way we will build web apps in 2016. 60FPS, push messages, offline support and background sync became a reality marking the birth of Progressive Web Apps.",
       "language": "English",
-      "speakers": [
-        "konrad_dzwinel"
-      ],
-      "tags": [
-        "Web"
-      ],
+      "speakers": ["konrad_dzwinel"],
+      "tags": ["Web"],
       "title": "Building web apps in 2016"
     },
     "113": {
@@ -520,24 +450,16 @@
       "description": "Microservices is coming with a certain workload and constraints. Let's try to see how Google Cloud Platform and App Engine can help the overall microservices implementation.",
       "language": "English",
       "presentation": "https://speakerdeck.com/gdglviv/jean-baptiste-clion-microservices-in-google-app-engine",
-      "speakers": [
-        "jean-baptiste_clion"
-      ],
-      "tags": [
-        "Cloud"
-      ],
+      "speakers": ["jean-baptiste_clion"],
+      "tags": ["Cloud"],
       "title": "Microservices in Google App Engine"
     },
     "114": {
       "complexity": "Intermediate",
       "description": "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
       "language": "English",
-      "speakers": [
-        "paul_lammertsma"
-      ],
-      "tags": [
-        "Android"
-      ],
+      "speakers": ["paul_lammertsma"],
+      "tags": ["Android"],
       "title": "I’ve been doing some syncing…"
     },
     "115": {
@@ -545,12 +467,8 @@
       "description": "Upcoming Android N release will bring some interesting changes to both Android run-time and toolchain. Let's talk about JIT, AOT, hybrid JIT/AOT, Jack, Jill and other acronyms and codenames ;-) In this presentation we'll see how many awesome tricks are needed to make our apps start fast and run smoothly on modern Android devices. Hopefully we'll also answer the most important question -- what's next for Android after Java.",
       "language": "English",
       "presentation": "https://speakerdeck.com/gdglviv/aleksander-piotrowski-android-tool-chain-and-run-time-improvements-in-n",
-      "speakers": [
-        "paul_lammertsma"
-      ],
-      "tags": [
-        "Android"
-      ],
+      "speakers": ["paul_lammertsma"],
+      "tags": ["Android"],
       "title": "Android tool-chain and run-time improvements in N",
       "videoId": "WqULb6bdwwg"
     },
@@ -559,12 +477,8 @@
       "description": "One of my favourite things about the web are ASCII smileys. They're sweet, fun and simply make the web a better place. How could anyone not like them ¯(ツ)/¯?\n\nThis talk is an overdose of smileys, because they're the perfect excuse to get started with Polymer. Polymer is a library built on top of the Web Components standards that helps developers create reusable components for the modern web. And since I know that everybody has been wondering how one could take over the world by creating a suite of Polymer animated emoticon components, we're going to do exactly that.",
       "language": "English",
       "presentation": "http://carmenpopoviciu.github.io/on-polymer-and-smileys/",
-      "speakers": [
-        "aleksander_piotrowski"
-      ],
-      "tags": [
-        "Web"
-      ],
+      "speakers": ["aleksander_piotrowski"],
+      "tags": ["Web"],
       "title": "On Polymer and smileys... or Polysmileys"
     },
     "117": {
@@ -572,12 +486,8 @@
       "description": "Data is becoming one of the main decision-makers in an organisation. The more data we have the more challenges we face every day. Every decision we make will have long-term implications. In the talk we will go through different approaches to the data pipelines: from a simple in-house built, with comparison to open source solutions based on Apache stack(Apache Kafka, Apache Samza, Spark) and finally hosted auto-scaling solutions based Amazon(S3, Kinesis, Lambda, EMR) or Google(Pub/Sub, Dataflow, BigQuery). The talk covers the main aspects of data collecting processes altogether with further implications for data processing, highlighting appropriate solutions and architectures for the particular use-cases. ",
       "language": "English",
       "presentation": "https://speakerdeck.com/gdglviv/sergii-khomenko-building-data-pipelines-from-simple-to-more-advanced-hands-on-experience",
-      "speakers": [
-        "carmen_popovicu"
-      ],
-      "tags": [
-        "Cloud"
-      ],
+      "speakers": ["carmen_popovicu"],
+      "tags": ["Cloud"],
       "title": "Building data pipelines: from simple to more advanced - hands-on experience"
     },
     "118": {
@@ -585,12 +495,8 @@
       "description": "TBD",
       "language": "English",
       "presentation": "https://speakerdeck.com/gdglviv/dmytro-danylyk-kotlin-plus-android",
-      "speakers": [
-        "sergii_khomenko"
-      ],
-      "tags": [
-        "Android"
-      ],
+      "speakers": ["sergii_khomenko"],
+      "tags": ["Android"],
       "title": "Kotlin + Android"
     },
     "119": {
@@ -598,12 +504,8 @@
       "description": "Writing Android apps is usually fun because you are actually building something. But what about writing tests? Boring stuff. Errr, UI tests? I am a developer!\n\nIn this talk we will take a look at options for UI tests on Android, why you should write them and how they help you with your app development workflow. No more untested apps!",
       "language": "English",
       "presentation": "https://speakerdeck.com/gdglviv/jana-moudra-hands-on-with-ui-testing-for-android-developers",
-      "speakers": [
-        "dmytro_danylyk"
-      ],
-      "tags": [
-        "Android"
-      ],
+      "speakers": ["dmytro_danylyk"],
+      "tags": ["Android"],
       "title": "Hands-on with UI testing for Android developers"
     },
     "120": {
@@ -611,24 +513,16 @@
       "description": "\"Remember back when AJAX completely changed what was possible in the desktop web? Progressive web apps are that same fundamental shift for the mobile web.\" said Rahul Row-Chowdhury (Google’s product lead for chrome and the web platform) on stage at Google I/O 2016. - Progressive web apps use service workers, app shell, push notifications, RAIL and other capabilities to deliver an app-like user experience.",
       "language": "English",
       "presentation": "https://speakerdeck.com/gdglviv/jakub-skvara-progressive-web-apps-prepare-your-web-for-2017",
-      "speakers": [
-        "jana_moudra"
-      ],
-      "tags": [
-        "Web"
-      ],
+      "speakers": ["jana_moudra"],
+      "tags": ["Web"],
       "title": "Progressive web apps - prepare your web for 2017"
     },
     "121": {
       "complexity": "Intermediate",
       "description": "Using service workers and other modern progressive web apps capabilities we can update our web applications to be offline-fires. In this session we'll show how to easily convert your applications be usable without the internet connection.",
       "language": "English",
-      "speakers": [
-        "jana_moudra"
-      ],
-      "tags": [
-        "Web"
-      ],
+      "speakers": ["jana_moudra"],
+      "tags": ["Web"],
       "title": "Offline-first progressive web apps"
     },
     "122": {
@@ -636,12 +530,8 @@
       "description": "I would like to talk about architecture of our Settle Up app. It's all based on new Firebase announced on I/O with the help of modern frameworks like Rx, Kotlin and MVP.",
       "language": "English",
       "presentation": "https://speakerdeck.com/gdglviv/david-vavra-firebase-plus-kotlin-plus-rxjava-plus-mvp-practical-tips",
-      "speakers": [
-        "jakub_škvára"
-      ],
-      "tags": [
-        "Android"
-      ],
+      "speakers": ["jakub_škvára"],
+      "tags": ["Android"],
       "title": "Firebase + Kotlin + RxJava + MVP: Practical Tips",
       "videoId": "b9NgjqM6dvk"
     },
@@ -649,24 +539,16 @@
       "complexity": "Beginner",
       "description": "TBD",
       "language": "English",
-      "speakers": [
-        "david_vávra"
-      ],
-      "tags": [
-        "Web"
-      ],
+      "speakers": ["david_vávra"],
+      "tags": ["Web"],
       "title": "TBD"
     },
     "124": {
       "complexity": "Intermediate",
       "description": "You are tired of building every patch for your QA ? Still deploying to google play manually ? You still think that build server is something that you don't need ? Than I will try to show you how you can make life of your team easier with CI.",
       "language": "English",
-      "speakers": [
-        "valentyn_shybanov"
-      ],
-      "tags": [
-        "Android"
-      ],
+      "speakers": ["valentyn_shybanov"],
+      "tags": ["Android"],
       "title": "Continues Integration in Android",
       "videoId": "MmGDQkgknfY"
     },
@@ -674,12 +556,8 @@
       "complexity": "Intermediate",
       "description": "TBD",
       "language": "English",
-      "speakers": [
-        "sergiy_mokienko"
-      ],
-      "tags": [
-        "Cloud"
-      ],
+      "speakers": ["sergiy_mokienko"],
+      "tags": ["Cloud"],
       "title": "Kubernetes in a real world"
     },
     "126": {
@@ -687,12 +565,8 @@
       "description": "Imagine the world where you can get any application, look into its code (even if it is not open sourced) and modify any conditional operator in any way you like. Welcome, you are in the Android applications world! Let's discover how anyone can decompile your app and, for example, hack your 'if' operators. For the beginning, we will play a role of a script kiddie and try to hack some simple app. After this, we will pretend security-conscious Android developers and try to think how we can protect ourselves.",
       "language": "English",
       "presentation": "https://speakerdeck.com/gdglviv/michael-pustovit-android-hacking-for-dummies-if-operator-demolytion",
-      "speakers": [
-        "ihor_dvoretskyi"
-      ],
-      "tags": [
-        "Android"
-      ],
+      "speakers": ["ihor_dvoretskyi"],
+      "tags": ["Android"],
       "title": "Android hacking for dummies: ‘if’ operator demolytion",
       "videoId": "We04nyIIsA0"
     },
@@ -701,24 +575,16 @@
       "description": "If you have any experience with Android Media Player, you definitely know how hard it is to prepare it and do not lose your mind. ExoPlayer - is an alternative, which can help you deal with media with much less pain. So lets discuss if it really a \"silver bullet\" or yet another State Machine hell.",
       "language": "Ukrainian",
       "presentation": "https://speakerdeck.com/gdglviv/anton-minashkin-exoplayer-media-playback-without-pain-almost-dot-dot-dot",
-      "speakers": [
-        "michael_pustovit"
-      ],
-      "tags": [
-        "Android"
-      ],
+      "speakers": ["michael_pustovit"],
+      "tags": ["Android"],
       "title": "ExoPlayer: Media playback without pain (almost...)"
     },
     "128": {
       "complexity": "Beginner",
       "description": "Google announced Android Wear 2.0 become available this Fall. This major update brings some revolutionary changes in platform, that should change our approaches in developing wearable apps, including freedom of BLE tethering, system support for complications and activity recognition by GoogleFit, developed mainly for Android Wear 2.0. We will talk deeper about these new features and look at some ways to implement them in the code.",
       "language": "English",
-      "speakers": [
-        "anton__minashkin"
-      ],
-      "tags": [
-        "Android"
-      ],
+      "speakers": ["anton__minashkin"],
+      "tags": ["Android"],
       "title": "Android Wear 2.0: Great Changes Upcoming this Fall"
     },
     "129": {
@@ -726,24 +592,16 @@
       "description": "Accessibility is a very important step to make sure that your app reaches everyone in an easy and fun way to use. \nGood accessibility support means much more than just making sure the app supports screen readers, different fonts sizes and good contrast ratios. It is a learning process, and one in which we ourselves still have much to learn and explore. ",
       "language": "English",
       "presentation": "https://speakerdeck.com/gdglviv/resul-caner-yildirim-accessibility-on-android",
-      "speakers": [
-        "constantine_mars"
-      ],
-      "tags": [
-        "Android"
-      ],
+      "speakers": ["constantine_mars"],
+      "tags": ["Android"],
       "title": "Accessibility on Android"
     },
     "130": {
       "complexity": "Intermediate",
       "description": "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
       "language": "English",
-      "speakers": [
-        "constantine_mars"
-      ],
-      "tags": [
-        "Android"
-      ],
+      "speakers": ["constantine_mars"],
+      "tags": ["Android"],
       "title": "Designing an Android Wear Application"
     },
     "131": {
@@ -751,12 +609,8 @@
       "description": "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
       "language": "English",
       "presentation": "https://speakerdeck.com/gdglviv/roman-herasymenko-deal-with-it-android-databinding-explained",
-      "speakers": [
-        "resul_caner__yildirim"
-      ],
-      "tags": [
-        "Android"
-      ],
+      "speakers": ["resul_caner__yildirim"],
+      "tags": ["Android"],
       "title": "Deal with it: Android DataBinding explained"
     },
     "132": {
@@ -813,21 +667,21 @@
     }
   },
   "speakers": {
-    "adrian_kajda": {
-      "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
-      "company": "Sygic",
+    "vagish_vela": {
+      "bio": "Software Architect at VTAKU, a software and marketing consulting company.",
+      "company": "VTAKU",
       "companyLogo": "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
+      "companyLogoUrl": "/images/logos/gdg-lviv.svg",
+      "country": "USA",
       "featured": true,
-      "name": "Adrian Kajda",
-      "photo": "/images/people/adrian_kajda.jpg",
-      "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/adrian_kajda.jpg",
+      "name": "Vagish Vela",
+      "photo": "/images/people/vagish_vela.jpg",
+      "photoUrl": "/images/people/vagish_vela.jpg",
       "pronouns": "he/him",
-      "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
+      "shortBio": "Software Architect at VTAKU, a software and marketing consulting company.",
       "socials": [],
       "order": 0,
-      "title": "Product Manager/Developer"
+      "title": "Software Architect"
     }
   },
   "team": [
@@ -1240,9 +1094,7 @@
         "2016": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story",
-            "tags": [
-              "Android"
-            ],
+            "tags": ["Android"],
             "title": "Fuelio. Success story",
             "videoId": "qK7ysoohsaM"
           }
@@ -1264,9 +1116,7 @@
         "2016": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/aleksander-piotrowski-android-tool-chain-and-run-time-improvements-in-n",
-            "tags": [
-              "Android"
-            ],
+            "tags": ["Android"],
             "title": "Android tool-chain and run-time improvements in N",
             "videoId": "WqULb6bdwwg"
           }
@@ -1274,10 +1124,7 @@
         "2017": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/aleksander-piotrowski-is-there-a-room-for-room",
-            "tags": [
-              "Android",
-              "Room"
-            ],
+            "tags": ["Android", "Room"],
             "title": "Is there a room for Room?",
             "videoId": "BHiKSnOaoh4"
           }
@@ -1320,29 +1167,21 @@
         "2015": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/anton-minashkin-data-binding",
-            "tags": [
-              "Android",
-              "Marshmallow"
-            ],
+            "tags": ["Android", "Marshmallow"],
             "title": "Data Binding. Next big thing?"
           }
         ],
         "2016": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/anton-minashkin-exoplayer-media-playback-without-pain-almost-dot-dot-dot",
-            "tags": [
-              "Android"
-            ],
+            "tags": ["Android"],
             "title": "ExoPlayer: Media playback without pain (almost...)"
           }
         ],
         "2017": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/anton-minashkin-random-musings-on-the-android-things",
-            "tags": [
-              "Android",
-              "IoT"
-            ],
+            "tags": ["Android", "IoT"],
             "title": "Random Musings on the Android Things",
             "videoId": "NCRr4nA0c7A"
           }
@@ -1370,9 +1209,7 @@
         "2016": [
           {
             "presentation": "http://carmenpopoviciu.github.io/on-polymer-and-smileys/",
-            "tags": [
-              "Web"
-            ],
+            "tags": ["Web"],
             "title": "On Polymer and smileys... or Polysmileys"
           }
         ]
@@ -1399,9 +1236,7 @@
         "2017": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/denis-radin-applying-nasa-coding-guidelines-to-javascript-or-airspace-is-closer-than-you-may-think",
-            "tags": [
-              "Web"
-            ],
+            "tags": ["Web"],
             "title": "Applying NASA coding guidelines to JavaScript or airspace is closer than you may think",
             "videoId": "E4fpZm17GNI"
           }
@@ -1428,30 +1263,21 @@
       "sessions": {
         "2014": [
           {
-            "tags": [
-              "TOPIC_ANDROID",
-              "LANG_UK",
-              "THEME_INTERMEDIATE"
-            ],
+            "tags": ["TOPIC_ANDROID", "LANG_UK", "THEME_INTERMEDIATE"],
             "title": "Android L Animation"
           }
         ],
         "2015": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/dmytro-danylyk-planning-android-screens",
-            "tags": [
-              "Android",
-              "UX"
-            ],
+            "tags": ["Android", "UX"],
             "title": "Planning Android Screens"
           }
         ],
         "2016": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/dmytro-danylyk-kotlin-plus-android",
-            "tags": [
-              "Android"
-            ],
+            "tags": ["Android"],
             "title": "Kotlin + Android"
           }
         ]
@@ -1488,29 +1314,21 @@
         "2015": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/igor-dvoretskyi-the-cloud-convergence-openstack-and-kubernetes",
-            "tags": [
-              "Cloud",
-              "Kubernetes"
-            ],
+            "tags": ["Cloud", "Kubernetes"],
             "title": "The Cloud Convergence: OpenStack and Kubernetes"
           }
         ],
         "2016": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/ihor-dvoretskyi-application-delivery-with-openstack-and-kubernetes",
-            "tags": [
-              "Cloud"
-            ],
+            "tags": ["Cloud"],
             "title": "Application Delivery with OpenStack and Kubernetes"
           }
         ],
         "2017": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/ihor-dvoretskyi-keynote-welcome-to-the-world-of-open-source-stories-by-kubernetes-contributor",
-            "tags": [
-              "General",
-              "Open Source"
-            ],
+            "tags": ["General", "Open Source"],
             "title": "Welcome to the world of Open Source. Stories by Kubernetes contributor",
             "videoId": "HhpHf3GefXI"
           }
@@ -1553,10 +1371,7 @@
         "2017": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/ivan-kutuzov-programming-languages-as-religions-or-instruments",
-            "tags": [
-              "General",
-              "Golang"
-            ],
+            "tags": ["General", "Golang"],
             "title": "Programming languages as religions or instruments?",
             "videoId": "h33Os2Wlh1E"
           }
@@ -1594,27 +1409,19 @@
         "2015": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/jana-moudra-lets-play-dart",
-            "tags": [
-              "Web",
-              "Dart"
-            ],
+            "tags": ["Web", "Dart"],
             "title": "Let's play Dart!"
           },
           {
             "presentation": "",
-            "tags": [
-              "Web",
-              "Dart"
-            ],
+            "tags": ["Web", "Dart"],
             "title": "[Workshop] Your first server-side application in Dart"
           }
         ],
         "2017": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/jana-moudra-how-angulardart-and-firebase-did-an-app-together",
-            "tags": [
-              "Web"
-            ],
+            "tags": ["Web"],
             "title": "How AngularDart & Firebase did an App together",
             "videoId": "Gk-WFDzCE3E"
           }
@@ -1657,19 +1464,13 @@
         "2017": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/jaroslav-khorishchenko-firebase-and-iot-how-to-create-device-and-seize-the-world",
-            "tags": [
-              "Firebase",
-              "IoT"
-            ],
+            "tags": ["Firebase", "IoT"],
             "title": "Firebase and IoT (Part 1)",
             "videoId": ""
           },
           {
             "presentation": "",
-            "tags": [
-              "Firebase",
-              "IoT"
-            ],
+            "tags": ["Firebase", "IoT"],
             "title": "Firebase and IoT (Part 2)",
             "videoId": ""
           }
@@ -1707,27 +1508,19 @@
         "2015": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/juarez-filho-firebase-adventures",
-            "tags": [
-              "Cloud",
-              "Firebase"
-            ],
+            "tags": ["Cloud", "Firebase"],
             "title": "Firebase Adventures - Real time platform for your apps"
           },
           {
             "presentation": "",
-            "tags": [
-              "Cloud",
-              "Firebase"
-            ],
+            "tags": ["Cloud", "Firebase"],
             "title": "[Workshop] Getting started with Firebase"
           }
         ],
         "2017": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/juarez-filho-let-firebase-help-you-to-build-better-front-end-apps",
-            "tags": [
-              "Web"
-            ],
+            "tags": ["Web"],
             "title": "Let Firebase help you to build better Front-end apps",
             "videoId": "xJsgIH4U_DM"
           }
@@ -1765,25 +1558,19 @@
         "2017": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/lesya-danylyuk-practical-guide-to-run-a-google-design-sprint",
-            "tags": [
-              "Design"
-            ],
+            "tags": ["Design"],
             "title": "Practical Guide to Run a Google Design Sprint (Part 1)",
             "videoId": ""
           },
           {
             "presentation": "",
-            "tags": [
-              "Design"
-            ],
+            "tags": ["Design"],
             "title": "Practical Guide to Run a Google Design Sprint  (Part 2)",
             "videoId": ""
           },
           {
             "presentation": "",
-            "tags": [
-              "Design"
-            ],
+            "tags": ["Design"],
             "title": "Practical Guide to Run a Google Design Sprint (Part 3)",
             "videoId": ""
           }
@@ -1820,40 +1607,28 @@
       "sessions": {
         "2014": [
           {
-            "tags": [
-              "TOPIC_ANDROID",
-              "LANG_EN",
-              "THEME_INTERMEDIATE"
-            ],
+            "tags": ["TOPIC_ANDROID", "LANG_EN", "THEME_INTERMEDIATE"],
             "title": "Guava beyond Collections"
           }
         ],
         "2015": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/mateusz-herych-how-can-android-backup-break-your-app",
-            "tags": [
-              "Android",
-              "Marshmallow"
-            ],
+            "tags": ["Android", "Marshmallow"],
             "title": "How can Android Backup break your app"
           }
         ],
         "2016": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/mateusz-herych-the-ultimate-guide-to-mvp-pattern-on-android",
-            "tags": [
-              "Android"
-            ],
+            "tags": ["Android"],
             "title": "The ultimate guide to MVP pattern on Android"
           }
         ],
         "2017": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/mateusz-herych-the-ultimate-guide-to-mvp-pattern-on-android",
-            "tags": [
-              "Android",
-              "MobileOps"
-            ],
+            "tags": ["Android", "MobileOps"],
             "title": "Release Android apps globally with no headache and minimum stress",
             "videoId": "OhcJqVEnc7I"
           }
@@ -1886,9 +1661,7 @@
         "2016": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/michael-pustovit-android-hacking-for-dummies-if-operator-demolytion",
-            "tags": [
-              "Android"
-            ],
+            "tags": ["Android"],
             "title": "Android hacking for dummies: ‘if’ operator demolytion",
             "videoId": "We04nyIIsA0"
           }
@@ -1896,10 +1669,7 @@
         "2017": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/michael-pustovit-gradle-scripts-in-kotlin-is-it-cool",
-            "tags": [
-              "Android",
-              "MobileOps"
-            ],
+            "tags": ["Android", "MobileOps"],
             "title": "Gradle scripts in Kotlin: is it cool?",
             "videoId": "XLNJkxWoCoc"
           }
@@ -1935,21 +1705,14 @@
       "sessions": {
         "2014": [
           {
-            "tags": [
-              "TOPIC_ANDROID",
-              "LANG_EN",
-              "THEME_INTERMEDIATE"
-            ],
+            "tags": ["TOPIC_ANDROID", "LANG_EN", "THEME_INTERMEDIATE"],
             "title": "Android Loader, problems and solutions"
           }
         ],
         "2015": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/roman-mazur-power-of-android-shell",
-            "tags": [
-              "Android",
-              "Tools"
-            ],
+            "tags": ["Android", "Tools"],
             "title": "Power of Android Shell"
           }
         ]
@@ -1981,9 +1744,7 @@
         "2017": [
           {
             "presentation": "https://lc0.github.io/slides/2017-devfest-hamburg/index.html#/1",
-            "tags": [
-              "Cloud"
-            ],
+            "tags": ["Cloud"],
             "title": "The Hitchhiker's Guide to Tensorflow: from Tensors to running models in production.",
             "videoId": "rWRv-AWDeKw"
           }
@@ -2011,9 +1772,7 @@
         "2016": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/sergiy-mokienko-continuous-integration-in-android",
-            "tags": [
-              "Android"
-            ],
+            "tags": ["Android"],
             "title": "Continuous Integration in Android",
             "videoId": "MmGDQkgknfY"
           }
@@ -2046,10 +1805,7 @@
         "2017": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/shmuela-jacobs-web-goes-native-progressive-web-apps-with-angular",
-            "tags": [
-              "Web",
-              "PWA"
-            ],
+            "tags": ["Web", "PWA"],
             "title": "Web goes Native: Progressive Web Apps with Angular",
             "videoId": "OcIZS4jNgP0"
           }
@@ -2081,38 +1837,26 @@
       "sessions": {
         "2014": [
           {
-            "tags": [
-              "TOPIC_WEB",
-              "LANG_EN",
-              "THEME_INTERMEDIATE"
-            ],
+            "tags": ["TOPIC_WEB", "LANG_EN", "THEME_INTERMEDIATE"],
             "title": "Go in the Cloud: How using Go can help building cloud ready applications"
           }
         ],
         "2015": [
           {
             "presentation": "http://olostan.github.io/slides_microgcp",
-            "tags": [
-              "Cloud",
-              "Go Lang"
-            ],
+            "tags": ["Cloud", "Go Lang"],
             "title": "Using GoLang for building micro-service architecture in Google Cloud Platform"
           },
           {
             "presentation": "http://olostan.github.io/slides_ng2arch",
-            "tags": [
-              "Web",
-              "AngularJS"
-            ],
+            "tags": ["Web", "AngularJS"],
             "title": "Angular2: Reasoning behind technical decisions"
           }
         ],
         "2016": [
           {
             "presentation": "https://olostan.github.io/slides_ng2high/",
-            "tags": [
-              "Web"
-            ],
+            "tags": ["Web"],
             "title": "Highlevel overview of the Angular 2",
             "videoId": "ghwfIPSOQOI"
           }
@@ -2120,9 +1864,7 @@
         "2017": [
           {
             "presentation": "https://olostan.github.io/slides_gcpstore/",
-            "tags": [
-              "Cloud"
-            ],
+            "tags": ["Cloud"],
             "title": "Cloud Storage - Choosing the Best",
             "videoId": "tLtj9wn8cUI"
           }
@@ -2150,9 +1892,7 @@
         "2016": [
           {
             "presentation": "https://speakerdeck.com/zasadnyy/j2objc-cross-platform-development-google-way",
-            "tags": [
-              "Android"
-            ],
+            "tags": ["Android"],
             "title": "J2ObjC. Cross platform development - Google way",
             "videoId": "rXvZkC6X56k"
           }
@@ -2190,27 +1930,20 @@
         "2016": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/yonatan-levin-knock-knock-whos-there-doze",
-            "tags": [
-              "Android"
-            ],
+            "tags": ["Android"],
             "title": "Knock knock! Who's there? Doze."
           }
         ],
         "2017": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/yonatan-levin-architecture-components-the-one-that-got-away",
-            "tags": [
-              "Android"
-            ],
+            "tags": ["Android"],
             "title": "Architecture Components. The one that got away",
             "videoId": "FzmDFscF41o"
           },
           {
             "presentation": "https://speakerdeck.com/gdglviv/yonatan-levin-keynote-making-mistakes-and-building-products-from-1st-to-30m-users",
-            "tags": [
-              "General",
-              "Entrepreneurship"
-            ],
+            "tags": ["General", "Entrepreneurship"],
             "title": "Making mistakes and building products from 1st to 30M users",
             "videoId": "hUY8jg9-ieE"
           }
@@ -2248,10 +1981,7 @@
         "2017": [
           {
             "presentation": "https://speakerdeck.com/gdglviv/yuliya-kaleda-make-your-app-instant",
-            "tags": [
-              "Android",
-              "Instant Apps"
-            ],
+            "tags": ["Android", "Instant Apps"],
             "title": "Make Your App Instant!",
             "videoId": "v4RfZ0f_HVE"
           }
