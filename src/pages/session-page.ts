@@ -204,14 +204,6 @@ export class SessionPage extends ReduxMixin(PolymerElement) {
               <span class="tag" style$="color: [[getVariableColor(tag)]]">[[tag]]</span>
             </template>
           </div>
-
-          <div class="float-button" hidden$="[[!contentLoaderVisibility]]">
-            <paper-fab
-              icon="hoverboard:[[featuredSessionIcon]]"
-              hidden$="[[!viewport.isLaptopPlus]]"
-              on-click="toggleFeaturedSession"
-            ></paper-fab>
-          </div>
         </div>
       </simple-hero>
 
@@ -293,17 +285,6 @@ export class SessionPage extends ReduxMixin(PolymerElement) {
               </div>
             </a>
           </template>
-        </div>
-
-        <div id="feedback" class="additional-sections">
-          <h3>[[feedback.headline]]</h3>
-
-          <auth-required hidden="[[!acceptingFeedback]]">
-            <slot slot="prompt">[[feedback.leaveFeedback]]</slot>
-            <feedback-block session-id="[[session.id]]"></feedback-block>
-          </auth-required>
-
-          <p hidden="[[acceptingFeedback]]">[[feedback.sessionClosed]]</p>
         </div>
       </div>
 

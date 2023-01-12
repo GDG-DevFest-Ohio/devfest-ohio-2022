@@ -74,13 +74,6 @@ const ROUTES: Route[] = [
     },
     children: [
       {
-        path: '/my-schedule',
-        component: 'my-schedule',
-        action: async () => {
-          await import('./elements/my-schedule.js');
-        },
-      },
-      {
         path: '/:id?',
         component: 'schedule-day',
         action: async (context, commands) => {
