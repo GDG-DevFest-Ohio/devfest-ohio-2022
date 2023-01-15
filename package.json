@@ -14,6 +14,7 @@
     "deploy:hosting": "npm run build && NODE_ENV=production firebase deploy --only hosting",
     "firestore:copy": "ts-node-script ./scripts/firestore-copy",
     "firestore:init": "ts-node-script ./scripts/firestore-init",
+    "firestore:reset": "firebase firestore:delete --recursive --all-collections && npm run firestore:init",
     "fix": "concurrently npm:fix:*",
     "fix:eslint": "eslint . --ext .ts --ext .js --fix",
     "fix:markdownlint": "markdownlint '**/*.md' --fix",
