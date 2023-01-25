@@ -420,11 +420,11 @@
     },
     "107": {
       "complexity": "Beginner",
-      "description": "",
+      "description": "ML Kit brings Google’s machine learning expertise to mobile developers (both Android and iOS). The powerful library includes both Vision APIs for image labeling and detection and Natural Language APIs to identify and translate between languages to help developers build engaging and personalized apps.\nIn this talk, we’ll start from the basics and build a native Android app to identify plants using Jetpack Compose and ML Kit. We’ll walk through integrating and using the default Image Labeling Vision API in our app, then dive in and train our own custom model, and finally process real time camera input.\nML is for everyone and so is this session!",
       "language": "English",
-      "speakers": ["pj_hagerty"],
-      "tags": ["Career"],
-      "title": "From Turing to Big Data: A Look at Computing and Analytics"
+      "speakers": ["sierra_obyran"],
+      "tags": ["AI/ML"],
+      "title": "Seeding the Model: Getting started with ML Kit"
     },
     "108": {
       "complexity": "Beginner",
@@ -471,7 +471,7 @@
       "description": "",
       "language": "English",
       "speakers": ["vagish_vela"],
-      "tags": ["AI"],
+      "tags": ["AI/ML"],
       "title": "TBD"
     }
   },
@@ -620,9 +620,9 @@
       "order": 0,
       "title": ""
     },
-    "pj_hagerty": {
-      "bio": "",
-      "company": "",
+    "sierra_obyran": {
+      "bio": "Sierra is a Software Engineer at Clubhouse, based in Cincinnati, OH, focused primarily on native Android. She loves building beautiful and accessible Android apps, sharing knowledge with the community, and mentoring aspiring mobile developers. She is a Google Developer Expert for Android and serves as a director of Women Who Code Cincinnati, Director of Technology for getWITit, former global Leadership Fellow for Women Who Code Mobile, and a Women Techmakers Ambassador.",
+      "company": "Clubhouse",
       "companyLogo": "",
       "companyLogoUrl": "",
       "country": "USA",
