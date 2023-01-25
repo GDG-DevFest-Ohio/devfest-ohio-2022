@@ -219,10 +219,13 @@
               "items": []
             },
             {
-              "items": ["6"]
+              "items": ["104"]
             },
             {
-              "items": ["6"]
+              "items": ["105"]
+            },
+            {
+              "items": ["106"]
             }
           ]
         },
@@ -234,10 +237,13 @@
               "items": []
             },
             {
-              "items": ["6"]
+              "items": ["107"]
             },
             {
-              "items": ["6"]
+              "items": ["108"]
+            },
+            {
+              "items": ["110"]
             }
           ]
         },
@@ -264,10 +270,13 @@
               "items": []
             },
             {
-              "items": ["6"]
+              "items": ["111"]
             },
             {
-              "items": ["6"]
+              "items": ["112"]
+            },
+            {
+              "items": ["110"]
             }
           ]
         },
@@ -279,10 +288,13 @@
               "items": []
             },
             {
-              "items": ["6"]
+              "items": ["113"]
             },
             {
-              "items": ["6"]
+              "items": ["114"]
+            },
+            {
+              "items": ["110"]
             }
           ]
         },
@@ -394,9 +406,73 @@
       "complexity": "Beginner",
       "description": "",
       "language": "English",
-      "speakers": ["samuel_baruffi"],
+      "speakers": ["michael_clark"],
       "tags": [""],
       "title": "Learn Patterns and Practices, Not Languages"
+    },
+    "106": {
+      "complexity": "Beginner",
+      "description": "",
+      "language": "English",
+      "speakers": ["robert_lin"],
+      "tags": ["Career"],
+      "title": "Why I fled a lucrative career of software development and engineering"
+    },
+    "107": {
+      "complexity": "Beginner",
+      "description": "",
+      "language": "English",
+      "speakers": ["pj_hagerty"],
+      "tags": ["Career"],
+      "title": "From Turing to Big Data: A Look at Computing and Analytics"
+    },
+    "108": {
+      "complexity": "Beginner",
+      "description": "",
+      "language": "English",
+      "speakers": ["michael_stadtmiller"],
+      "tags": ["Career"],
+      "title": "Serverless Infrastructure with Python + Zappa"
+    },
+    "110": {
+      "complexity": "Beginner",
+      "description": "",
+      "language": "English",
+      "speakers": ["iman_rahmati"],
+      "tags": ["Firebase"],
+      "title": "Firebase Extensions Workshop"
+    },
+    "111": {
+      "complexity": "Beginner",
+      "description": "",
+      "language": "English",
+      "speakers": ["greg_miller"],
+      "tags": ["Accessibility"],
+      "title": "TBD"
+    },
+    "112": {
+      "complexity": "Beginner",
+      "description": "",
+      "language": "English",
+      "speakers": ["amanda_lange"],
+      "tags": ["Accessibility"],
+      "title": "Team Collaboration"
+    },
+    "113": {
+      "complexity": "Beginner",
+      "description": "",
+      "language": "English",
+      "speakers": ["nash_ramdial"],
+      "tags": ["Flutter"],
+      "title": "Creating a Flutter Chat App with Stream"
+    },
+    "114": {
+      "complexity": "Beginner",
+      "description": "",
+      "language": "English",
+      "speakers": ["vagish_vela"],
+      "tags": ["AI"],
+      "title": "TBD"
     }
   },
   "speakers": {
