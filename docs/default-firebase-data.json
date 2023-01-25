@@ -684,20 +684,20 @@
       "title": "Software Architect"
     },
     "puf": {
-      "bio": "Firebase DevRel",
-      "company": "TBD",
+      "bio": "Frank van Puffelen (puf) is a Firebase engineer at Google in San Francisco, where he helps developers build better apps using Firebase and other Google technologies. He's the host of the Firebase Release Notes video series, one of the top contributors on Stack Overflow, and multi-time speaker at Google I/O.",
+      "company": "Google",
       "companyLogo": "/images/logos/tbd.svg",
       "companyLogoUrl": "/images/logos/tbd.svg",
       "country": "USA",
       "featured": true,
-      "name": "Puf",
+      "name": "Frank van Puffelen / puf",
       "photo": "/images/people/placeholder.png",
       "photoUrl": "/images/people/placeholder.png",
       "pronouns": "he/him",
-      "shortBio": "Firebase DevRel",
+      "shortBio": "Frank van Puffelen (puf) is a Firebase engineer at Google in San Francisco",
       "socials": [],
       "order": 0,
-      "title": "Firebase DevRel"
+      "title": "Firebase engineer "
     },
     "craig_labenz": {
       "bio": "Flutter DevRel",
@@ -731,21 +731,53 @@
       "order": 0,
       "title": "Mobile Architect"
     },
-    "scott_stoll": {
-      "bio": "GDG",
+    "jordan_powell": {
+      "bio": "Jordan is a Google Developer Expert (GDE) and Developer Experience Engineer at Cypress. He is passionate about writing \"good code\" that is easy to read, test and maintain over time. He has over a decade of experience in software development, marketing, design, and video production. Jordan also serves as the CEO & Co-Founder for the non-profit Dream On: Global. When he is not working, he spends his time as a husband, father and Cleveland sports fan.",
       "company": "TBD",
       "companyLogo": "/images/logos/tbd.svg",
       "companyLogoUrl": "/images/logos/tbd.svg",
       "country": "USA",
       "featured": true,
-      "name": "Scott Stoll",
+      "name": "Jordan Powell",
       "photo": "/images/people/placeholder.png",
       "photoUrl": "/images/people/placeholder.png",
       "pronouns": "he/him",
-      "shortBio": "GDG",
+      "shortBio": "Jordan is a Google Developer Expert (GDE) and Developer Experience Engineer at Cypress.",
       "socials": [],
       "order": 0,
       "title": "Flutter Developer"
+    },
+    "iman_rahmati": {
+      "bio": "Googler",
+      "company": "Google",
+      "companyLogo": "/images/logos/tbd.svg",
+      "companyLogoUrl": "/images/logos/tbd.svg",
+      "country": "USA",
+      "featured": true,
+      "name": "Iman Rahmati",
+      "photo": "/images/people/placeholder.png",
+      "photoUrl": "/images/people/placeholder.png",
+      "pronouns": "he/him",
+      "shortBio": "Googler",
+      "socials": [],
+      "order": 0,
+      "title": "TBD"
+    },
+    "samuel_baruffi": {
+      "bio": "TBD",
+      "company": "TBD",
+      "companyLogo": "/images/logos/tbd.svg",
+      "companyLogoUrl": "/images/logos/tbd.svg",
+      "country": "USA",
+      "featured": true,
+      "name": "Samuel Baruffi",
+      "photo": "/images/people/placeholder.png",
+      "photoUrl": "/images/people/placeholder.png",
+      "pronouns": "he/him",
+      "shortBio": "TBD",
+      "socials": [],
+      "order": 0,
+      "title": "TBD"
     }
   },
   "team": [
