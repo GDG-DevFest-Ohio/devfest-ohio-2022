@@ -412,7 +412,7 @@
     },
     "106": {
       "complexity": "Beginner",
-      "description": "",
+      "description": "Nowadays, it’s become popular for non-software developers to aspire of transitioning into software engineering.  Indeed, for over two decades now, Big Tech’s allure of mouth-watering pay, unparalleled company perks, and innovative work has attracted many.  But there are two sides to every coin.  Join this talk to hear about why coding may not be a career for everyone and why a former senior software developer abandoned ship for a second act in consulting.",
       "language": "English",
       "speakers": ["robert_lin"],
       "tags": ["Career"],
@@ -605,18 +605,24 @@
       "title": ""
     },
     "robert_lin": {
-      "bio": "",
-      "company": "",
+      "bio": "For nearly six years, Robert was previously a software engineer at Goldman Sachs, where he eventually rose to the rank of Senior Software Developer. For love, he moved to Cincinnati, OH and ended up finding <a href='https://infotrust.com/'>InfoTrust</a>, the best company ever, where he now works as a <em><a href='https://taginspector.com/'>Tag Inspector</a></em> consultant for some of the world’s largest companies. In his free time, Robert enjoys reading, <a href='https://community.codenewbie.org/r002/adventures-of-the-open-source-avenger-embarking-upon-52-weeks-of-open-source-22i9'>writing</a>, and <a href='https://community.codenewbie.org/r002/2-python-opencv-classic-tetris-monthly-summary-tool-mar-12-2021-nep'>coding</a>. Raised in Montana, Robert feels Kevin Costner in the TV show, <em>Yellowstone</em>, is pretty much spot-on.",
+      "company": "InfoTrust",
       "companyLogo": "",
       "companyLogoUrl": "",
-      "country": "USA",
+      "country": "Cincinnati, OH",
       "featured": true,
       "name": "Robert Lin",
-      "photo": "/images/people/placeholder.png",
-      "photoUrl": "/images/people/placeholder.png",
+      "photo": "/images/people/robert_lin.jpeg",
+      "photoUrl": "/images/people/robert_lin.jpeg",
       "pronouns": "he/him",
-      "shortBio": "",
-      "socials": [],
+      "shortBio": "Robert is a Tag Inspector consultant at InfoTrust, a digital analytics firm in Cincinnati, OH.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/robert-lin-b8b2699/",
+          "name": "Linkedin"
+        }
+      ],
       "order": 0,
       "title": ""
     },
