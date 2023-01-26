@@ -1659,19 +1659,19 @@
     },
     "greg_miller": {
       "bio": "",
-      "company": "",
-      "companyLogo": "",
-      "companyLogoUrl": "",
+      "company": "Shrinkray Labs",
+      "companyLogo": "/images/logos/slabs.svg",
+      "companyLogoUrl": "/images/logos/slabs.svg",
       "country": "USA",
       "featured": true,
       "name": "Greg Miller",
       "order": 0,
-      "photo": "/images/people/placeholder.png",
-      "photoUrl": "/images/people/placeholder.png",
+      "photo": "/images/people/greg_miller.png",
+      "photoUrl": "/images/people/greg_miller.png",
       "pronouns": "he/him",
-      "shortBio": "",
+      "shortBio": "GDG Toledo Organizer",
       "socials": [],
-      "title": ""
+      "title": "UX Engineer"
     },
     "iman_rahmati": {
       "bio": "Googler",
