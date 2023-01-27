@@ -444,11 +444,11 @@
     },
     "111": {
       "complexity": "Beginner",
-      "description": "",
+      "description": "Accessibility testing tools are a great way to help you find and fix accessibility issues in your web applications. But what are they and should you use them? In this talk, we'll discuss the different types, how they work, and how to use them to improve your web applications.",
       "language": "English",
       "speakers": ["greg_miller"],
       "tags": ["Accessibility"],
-      "title": "TBD"
+      "title": "Accessibility Testing Tools: What are They & Should You Use Them?"
     },
     "112": {
       "complexity": "Beginner",
@@ -659,20 +659,20 @@
       "title": ""
     },
     "greg_miller": {
-      "bio": "",
-      "company": "",
-      "companyLogo": "",
-      "companyLogoUrl": "",
+      "bio": "Greg is a UX Engineer and Frontend Developer who ❤️ Accesibility, Core Web Vitals, and Marketing. He loves startups and pursues work in a variety of projects in meta-frameworks like Astro, Sveltekit, Headless CMS, and WordPress. While devoted to his family, friends, and woodworking, he is an event promoter and organizer for his local GDG Community",
+      "company": "Shrinkray Interactive",
+      "companyLogo": "/images/logos/slabs.svg",
+      "companyLogoUrl": "/images/logos/slabs.svg",
       "country": "USA",
       "featured": true,
       "name": "Greg Miller",
-      "photo": "/images/people/placeholder.png",
-      "photoUrl": "/images/people/placeholder.png",
+      "photo": "/images/people/greg_miller.png",
+      "photoUrl": "/images/people/greg_miller.png",
       "pronouns": "he/him",
-      "shortBio": "",
+      "shortBio": "GDG Toledo Organizer",
       "socials": [],
       "order": 0,
-      "title": ""
+      "title": "UX Engineer"
     },
     "amanda_lange": {
       "bio": "",
