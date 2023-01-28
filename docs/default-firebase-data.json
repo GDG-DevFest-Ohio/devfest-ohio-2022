@@ -605,7 +605,7 @@
       "title": ""
     },
     "robert_lin": {
-      "bio": "For nearly six years, Robert was previously a software engineer at Goldman Sachs, where he eventually rose to the rank of Senior Software Developer. For love, he moved to Cincinnati, OH and ended up finding <a href='https://infotrust.com/'>InfoTrust</a>, the best company ever, where he now works as a <em><a href='https://taginspector.com/'>Tag Inspector</a></em> consultant for some of the world’s largest companies. In his free time, Robert enjoys reading, <a href='https://community.codenewbie.org/r002/adventures-of-the-open-source-avenger-embarking-upon-52-weeks-of-open-source-22i9'>writing</a>, and <a href='https://community.codenewbie.org/r002/2-python-opencv-classic-tetris-monthly-summary-tool-mar-12-2021-nep'>coding</a>. Raised in Montana, Robert feels Kevin Costner in the TV show, <em>Yellowstone</em>, is pretty much spot-on.",
+      "bio": "For nearly six years, Robert was previously a software engineer at Goldman Sachs, where he eventually rose to the rank of Senior Software Developer. For love, he moved to Cincinnati, OH and ended up finding InfoTrust, the best company ever, where he now works as a Tag Inspector consultant for some of the world’s largest companies. In his free time, Robert enjoys reading, <a href='https://community.codenewbie.org/r002/adventures-of-the-open-source-avenger-embarking-upon-52-weeks-of-open-source-22i9'>writing</a>, and <a href='https://community.codenewbie.org/r002/2-python-opencv-classic-tetris-monthly-summary-tool-mar-12-2021-nep'>coding</a>. Raised in Montana, Robert feels Kevin Costner in the TV show, <em>Yellowstone</em>, is pretty much spot-on.",
       "company": "InfoTrust",
       "companyLogo": "",
       "companyLogoUrl": "",
@@ -621,6 +621,16 @@
           "icon": "linkedin",
           "link": "https://www.linkedin.com/in/robert-lin-b8b2699/",
           "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://community.codenewbie.org/r002/adventures-of-the-open-source-avenger-embarking-upon-52-weeks-of-open-source-22i9",
+          "name": "Blog"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/r002",
+          "name": "GitHub"
         }
       ],
       "order": 0,
@@ -643,11 +653,11 @@
       "title": ""
     },
     "michael_stadtmiller": {
-      "bio": "",
+      "bio": "I’m a happy father of 2 kids. They think I’m hilarious and are not teenagers yet. I play sand volleyball once a week which is not enough to be good. If I could have one superpower it would be to play the piano. Some of my opinions: Coffee > Tea, Chicago-style > NY-style pizza, dogs > cats, sometimes charcuterie counts as dinner.<br /><br />Professionally, I’m an Engineering Manager at InfoTrust based in Cincinnati. It’s the greatest company in the world and yes we’re hiring!",
       "company": "",
       "companyLogo": "",
       "companyLogoUrl": "",
-      "country": "USA",
+      "country": "Cincinnati, OH",
       "featured": true,
       "name": "Michael Stadtmiller",
       "photo": "/images/people/placeholder.png",
