@@ -472,7 +472,7 @@
       "language": "English",
       "speakers": ["vagish_vela"],
       "tags": ["AI/ML"],
-      "title": "TBD"
+      "title": "How to Leverage AI tools like GitHub Copilot or ChatGPT for software development"
     }
   },
   "speakers": {
@@ -488,7 +488,28 @@
       "photoUrl": "/images/people/vagish_vela.jpg",
       "pronouns": "he/him",
       "shortBio": "Software Architect at VTAKU, a software and marketing consulting company.",
-      "socials": [],
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/vagish/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "website",
+          "link": "https://vagish.com",
+          "name": "Blog"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/VagishVela",
+          "name": "GitHub"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/vagish",
+          "name": "Twitter"
+        }
+      ],
       "order": 0,
       "title": "Software Architect"
     },
