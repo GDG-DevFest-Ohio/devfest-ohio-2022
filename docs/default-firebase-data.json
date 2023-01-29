@@ -428,10 +428,10 @@
     },
     "108": {
       "complexity": "Beginner",
-      "description": "",
+      "description": "Want web scalability without the effort?  Zappa is a feature rich Python library that creates AWS serverless infrastructure to help you get live quicker and cheaper!  Stay focused on creating your app and not fussing with hosting!  Join this talk to learn all about how some friends and I leveraged Zappa to spin up a full-fledged production site on AWS at minimal cost!",
       "language": "English",
       "speakers": ["michael_stadtmiller"],
-      "tags": ["Career"],
+      "tags": ["Python"],
       "title": "Serverless Infrastructure with Python + Zappa"
     },
     "110": {
@@ -659,17 +659,38 @@
     },
     "michael_stadtmiller": {
       "bio": "I’m a happy father of 2 kids. They think I’m hilarious and are not teenagers yet. I play sand volleyball once a week which is not enough to be good. If I could have one superpower it would be to play the piano. Some of my opinions: Coffee > Tea, Chicago-style > NY-style pizza, dogs > cats, sometimes charcuterie counts as dinner.<br /><br />Professionally, I’m an Engineering Manager at InfoTrust based in Cincinnati. It’s the greatest company in the world and yes we’re hiring!",
-      "company": "",
+      "company": "InfoTrust",
       "companyLogo": "",
       "companyLogoUrl": "",
       "country": "Cincinnati, OH",
       "featured": true,
       "name": "Michael Stadtmiller",
-      "photo": "/images/people/placeholder.png",
-      "photoUrl": "/images/people/placeholder.png",
+      "photo": "/images/people/michael_stadtmiller.jpeg",
+      "photoUrl": "/images/people/michael_stadtmiller.jpeg",
       "pronouns": "he/him",
-      "shortBio": "",
-      "socials": [],
+      "shortBio": "Michael is an Engineering Manager at InfoTrust, a digital analytics firm in Cincinnati, OH.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/michaelstadtmiller/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/MStadtmiller",
+          "name": "Twitter"
+        },
+        {
+          "icon": "website",
+          "link": "https://michaelstadtmiller.com/",
+          "name": "Blog"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/michaelstadtmiller",
+          "name": "GitHub"
+        }
+      ],
       "order": 0,
       "title": ""
     },
