@@ -404,10 +404,10 @@
     },
     "105": {
       "complexity": "Beginner",
-      "description": "",
+      "description": "With ever-changing languages and “standards”, understanding and knowing when to use the right design patterns, architecture, and practices is a far more important focus of your learning.",
       "language": "English",
       "speakers": ["michael_clark"],
-      "tags": [""],
+      "tags": ["Skills"],
       "title": "Learn Patterns and Practices, Not Languages"
     },
     "106": {
@@ -604,7 +604,7 @@
     },
     "michael_clark": {
       "bio": "",
-      "company": "",
+      "company": "Kroger",
       "companyLogo": "",
       "companyLogoUrl": "",
       "country": "USA",
@@ -614,9 +614,15 @@
       "photoUrl": "/images/people/michael_clark.jpeg",
       "pronouns": "he/him",
       "shortBio": "",
-      "socials": [],
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/michael-clark-jr",
+          "name": "Linkedin"
+        }
+      ],
       "order": 0,
-      "title": ""
+      "title": "Sr Advanced Software Engineering Manager"
     },
     "robert_lin": {
       "bio": "For nearly six years, Robert was previously a software engineer at Goldman Sachs, where he eventually rose to the rank of Senior Software Developer. For love, he moved to Cincinnati, OH and ended up finding InfoTrust, the best company ever, where he now works as a Tag Inspector consultant for some of the world’s largest companies. In his free time, Robert enjoys reading, <a href='https://community.codenewbie.org/r002/adventures-of-the-open-source-avenger-embarking-upon-52-weeks-of-open-source-22i9'>writing</a>, and <a href='https://community.codenewbie.org/r002/2-python-opencv-classic-tetris-monthly-summary-tool-mar-12-2021-nep'>coding</a>. Raised in Montana, Robert feels Kevin Costner in the TV show, <em>Yellowstone</em>, is pretty much spot-on.",
