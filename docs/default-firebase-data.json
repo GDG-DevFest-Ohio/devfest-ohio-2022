@@ -525,7 +525,13 @@
       "photoUrl": "/images/people/puf.jpeg",
       "pronouns": "he/him",
       "shortBio": "Frank van Puffelen (puf) is a Firebase engineer at Google in San Francisco",
-      "socials": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/puf",
+          "name": "Twitter"
+        }
+      ],
       "order": 0,
       "title": "Firebase engineer "
     },
