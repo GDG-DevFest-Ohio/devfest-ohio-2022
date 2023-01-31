@@ -380,11 +380,11 @@
     },
     "102": {
       "complexity": "Beginner",
-      "description": "",
+      "description": "A discussion of the use of Firebase within the Little Caesars mobile apps with real world examples form our QA environment.. Topics include Crashlytics, Remote Config, A/B Testing, Firebase Events and BigQuery.",
       "language": "English",
       "speakers": ["dave_koziol"],
       "tags": ["Firebase"],
-      "title": "Intro to Firebase"
+      "title": "Real World Firebase Usage by Little Caesars"
     },
     "103": {
       "complexity": "Beginner",
@@ -536,7 +536,7 @@
       "title": "Firebase engineer "
     },
     "dave_koziol": {
-      "bio": "GDG Detroit Organizer",
+      "bio": "Dave is the Mobile Architect for Little Caesars where he heads the team responsible for mobile apps for Little Caesars, the Detroit Tigers, and other Ilitch organizations. Dave has been developing mobile applications since long before it was considered cool. Some of the over 250 apps he and his teams have worked on have been featured in the Apple, Amazon and Google app stores, and been ranked in the top 5 of their categories a half dozen times. He has attended 23 of Apple’s World Wide Developer Conferences, and 3 Google I/O conferences, making him either an experience veteran or a conference junkie./nDave believes strongly in trying to foster and grow communities and is a meetup organizer for GDG Ann Arbor, GDG Detroit, CocoaHeads Ann Arbor, and the Korean / English Language Exchange.",
       "company": "Little Caesars Pizza",
       "companyLogo": "",
       "companyLogoUrl": "",
@@ -546,8 +546,19 @@
       "photo": "/images/people/dave_koziol.jpeg",
       "photoUrl": "/images/people/dave_koziol.jpeg",
       "pronouns": "he/him",
-      "shortBio": "GDG Detroit Organizer",
-      "socials": [],
+      "shortBio": "Dave is the Mobile Architect for Little Caesars where he heads the team responsible for mobile apps for Little Caesars, the Detroit Tigers, and other Ilitch organizations.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/davekoziol/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/DaveKoziol",
+          "name": "Twitter"
+        }
+      ],
       "order": 0,
       "title": "Mobile Architect"
     },
