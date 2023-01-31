@@ -288,7 +288,7 @@
               "items": []
             },
             {
-              "items": ["113"]
+              "items": []
             },
             {
               "items": ["114"]
@@ -457,14 +457,6 @@
       "speakers": ["amanda_lange"],
       "tags": ["Accessibility"],
       "title": "Team Collaboration"
-    },
-    "113": {
-      "complexity": "Beginner",
-      "description": "",
-      "language": "English",
-      "speakers": ["nash_ramdial"],
-      "tags": ["Flutter"],
-      "title": "Creating a Flutter Chat App with Stream"
     },
     "114": {
       "complexity": "Beginner",
@@ -738,22 +730,6 @@
       "photo": "/images/people/amanda_lange.jpeg",
       "photoUrl": "/images/people/amanda_lange.jpeg",
       "pronouns": "she/her",
-      "shortBio": "",
-      "socials": [],
-      "order": 0,
-      "title": ""
-    },
-    "nash_ramdial": {
-      "bio": "",
-      "company": "",
-      "companyLogo": "",
-      "companyLogoUrl": "",
-      "country": "USA",
-      "featured": true,
-      "name": "Nash Ramdial",
-      "photo": "/images/people/nash_ramdial.jpg",
-      "photoUrl": "/images/people/nash_ramdial.jpg",
-      "pronouns": "he/him",
       "shortBio": "",
       "socials": [],
       "order": 0,
