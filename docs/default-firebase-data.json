@@ -587,7 +587,7 @@
       "title": ""
     },
     "samuel_baruffi": {
-      "bio": "",
+      "bio": "Samuel Baruffi loves technology and has been in the industry for over 16 years. Currently works as a Senior Global Solutions Architect for Amazon Web Services (AWS). On my time off I love to play and watch sports (big soccer and tennis fan) and love to spend my time off travelling to places I have never been. ",
       "company": "Amazon Web Services (AWS)",
       "companyLogo": "",
       "companyLogoUrl": "",
@@ -597,8 +597,19 @@
       "photo": "/images/people/samuel_baruffi.png",
       "photoUrl": "/images/people/samuel_baruffi.png",
       "pronouns": "he/him",
-      "shortBio": "",
-      "socials": [],
+      "shortBio": "Samuel Baruffi loves technology and has been in the industry for over 16 years.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/samuelbaruffi/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/samuelbaruffi",
+          "name": "Twitter"
+        }
+      ],
       "order": 0,
       "title": "Senior Global Solutions Architect"
     },
