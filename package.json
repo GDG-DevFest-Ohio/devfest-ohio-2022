@@ -12,6 +12,7 @@
     "clean": "rm -rf dist",
     "deploy": "npm run build && NODE_ENV=production firebase deploy",
     "deploy:hosting": "npm run build && NODE_ENV=production firebase deploy --only hosting",
+    "deploy:main": "git checkout main && git pull && firebase firestore:delete --recursive --all-collections && npm run firestore:init && npm run deploy",
     "firestore:copy": "ts-node-script ./scripts/firestore-copy",
     "firestore:init": "ts-node-script ./scripts/firestore-init",
     "firestore:reset": "firebase firestore:delete --recursive --all-collections && npm run firestore:init",
