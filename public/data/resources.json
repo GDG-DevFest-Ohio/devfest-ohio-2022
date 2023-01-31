@@ -107,8 +107,8 @@
     "callToAction": {
       "featuredSessions": {
         "description": "Ohio DevFest brings together the world class experts in Android, Web and Cloud technologies to Columbus for 1 day of sessions, workshops and showcases. Described by many as 'Google I/O of Ohio', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "Explore Ohio DevFest 2019 Sessions",
-        "link": "https://youtube.com/playlist?list=PL4thHCyruzmi6neKpNIXEMszt7n8-T9pr"
+        "label": "Secure your spot",
+        "link": "https://www.eventbrite.com/e/ohio-devfest-2023-tickets-513534925787"
       },
       "howItWas": {
         "description": "Described by many as 'Google I/O of Ohio', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
@@ -127,11 +127,11 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "TBD"
+        "number": "15"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "TBD"
+        "number": "3"
       }
     }
   },
