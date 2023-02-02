@@ -243,7 +243,7 @@
               "items": ["108"]
             },
             {
-              "items": ["110"]
+              "items": []
             }
           ]
         },
@@ -276,7 +276,7 @@
               "items": ["112"]
             },
             {
-              "items": ["110"]
+              "items": []
             }
           ]
         },
@@ -294,7 +294,7 @@
               "items": ["114"]
             },
             {
-              "items": ["110"]
+              "items": []
             }
           ]
         },
@@ -434,14 +434,6 @@
       "tags": ["Python"],
       "title": "Serverless Infrastructure with Python + Zappa"
     },
-    "110": {
-      "complexity": "Beginner",
-      "description": "",
-      "language": "English",
-      "speakers": ["iman_rahmati"],
-      "tags": ["Firebase"],
-      "title": "Firebase Extensions Workshop"
-    },
     "111": {
       "complexity": "Beginner",
       "description": "Accessibility testing tools are a great way to help you find and fix accessibility issues in your web applications. But what are they and should you use them? In this talk, we'll discuss the different types, how they work, and how to use them to improve your web applications.",
@@ -569,22 +561,6 @@
       "socials": [],
       "order": 0,
       "title": "Flutter Developer"
-    },
-    "iman_rahmati": {
-      "bio": "Googler",
-      "company": "Google",
-      "companyLogo": "",
-      "companyLogoUrl": "",
-      "country": "USA",
-      "featured": true,
-      "name": "Iman Rahmati",
-      "photo": "/images/people/iman_rahmati.jpeg",
-      "photoUrl": "/images/people/iman_rahmati.jpeg",
-      "pronouns": "he/him",
-      "shortBio": "Googler",
-      "socials": [],
-      "order": 0,
-      "title": ""
     },
     "samuel_baruffi": {
       "bio": "Samuel Baruffi loves technology and has been in the industry for over 16 years. Currently works as a Senior Global Solutions Architect for Amazon Web Services (AWS). On my time off I love to play and watch sports (big soccer and tennis fan) and love to spend my time off travelling to places I have never been. ",
