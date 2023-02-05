@@ -276,7 +276,7 @@
               "items": ["112"]
             },
             {
-              "items": []
+              "items": ["115"]
             }
           ]
         },
@@ -294,7 +294,7 @@
               "items": ["114"]
             },
             {
-              "items": []
+              "items": ["115"]
             }
           ]
         },
@@ -457,6 +457,14 @@
       "speakers": ["vagish_vela"],
       "tags": ["AI/ML"],
       "title": "How to Leverage AI tools like GitHub Copilot or ChatGPT for software development"
+    },
+    "115": {
+      "complexity": "Beginner",
+      "description": "",
+      "language": "English",
+      "speakers": ["pete_gordon", "vagish_vela"],
+      "tags": ["Workshop"],
+      "title": "Coding Dojo - NextJS Focused"
     }
   },
   "speakers": {
@@ -711,6 +719,20 @@
       "socials": [],
       "order": 0,
       "title": "UX Engineer"
+    },
+    "pete_gordon": {
+      "bio": "Just a Software guy here in town. 🤪😏",
+      "company": "UsersFirst",
+      "country": "USA",
+      "featured": true,
+      "name": "Pete Gordon",
+      "photo": "/images/people/pete_gordon.jpeg",
+      "photoUrl": "/images/people/pete_gordon.jpeg",
+      "pronouns": "he/him",
+      "shortBio": "Just a Software guy here in town. 🤪😏",
+      "socials": [],
+      "order": 0,
+      "title": "Software and Data Engineer"
     },
     "amanda_lange": {
       "bio": "",
