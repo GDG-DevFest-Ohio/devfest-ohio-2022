@@ -444,11 +444,11 @@
     },
     "112": {
       "complexity": "Beginner",
-      "description": "",
+      "description": "Communication is one of the most important pieces of technology, and not just in relation to how the code communicates to the machine to perform a specific action. It is important to remember that behind every black and green screen of text and whatever syntax is being used is a human being worrying about what’s for dinner or day dreaming of their next beach vacation. Talking to the human appropriately is just as, dare I say, MORE IMPORTANT than talking to the computer. \nIn this talk I will walk you through the dos and don'ts that I have learned on communicating with a developer even when you aren’t speaking the same language as them. We will discuss certain tools that can help make everyone involveds life easier when collaborating together and talk through the importance of organization and clear communication. Finally, we will review what items are important for your development team to be aware of vs. what are some items that can be kept between you and your screen. \nJoin me to help strengthen my skills that I use with my current technical teams while I share with you what I have learned along the way. This talk is for anyone that ever spends any amount of time talking and wants to depend their knowledge base!",
       "language": "English",
       "speakers": ["amanda_lange"],
       "tags": ["Accessibility"],
-      "title": "Team Collaboration"
+      "title": "How to speak Developer, even when you don't know the language"
     },
     "114": {
       "complexity": "Beginner",
@@ -746,8 +746,8 @@
       "title": "Software and Data Engineer"
     },
     "amanda_lange": {
-      "bio": "",
-      "company": "",
+      "bio": "Amanda is a Business Consultant with Improving,OH practicing as a certified Scrum master and serves as the VP for GetWITit Columbus. Her demonstrated history of working in the computer software industry for the last decade has helped her find her way around many different roles ranging from Account manager, Business Analyst, Solutions manager, Scrum Master, Product Owner and Development Coordinator. She is skilled in Communication, Innovation, Enablement, Evangelism, Autonomy, Leadership, Networking and Collaboration. \nOverall, Amandas is a technology and Business liaison with a specific passion for empowering, encouraging and supporting Women in technology. While her main focus is to bring Women into Tech she has began to pave the way for Non-Technical professionals to properly and confidently navigate the tech world!",
+      "company": "Improving,OH",
       "companyLogo": "",
       "companyLogoUrl": "",
       "country": "USA",
@@ -756,10 +756,16 @@
       "photo": "/images/people/amanda_lange.jpeg",
       "photoUrl": "/images/people/amanda_lange.jpeg",
       "pronouns": "she/her",
-      "shortBio": "",
-      "socials": [],
+      "shortBio": "Amanda is a Business Consultant with Improving,OH practicing as a certified Scrum master and serves as the VP for GetWITit Columbus.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/amanda-lange-productowner/",
+          "name": "Linkedin"
+        }
+      ],
       "order": 0,
-      "title": ""
+      "title": "Business Consultant"
     }
   },
   "team": [
