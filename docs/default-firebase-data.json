@@ -662,8 +662,19 @@
       "photo": "/images/people/sierra_obryan.jpeg",
       "photoUrl": "/images/people/sierra_obryan.jpeg",
       "pronouns": "he/him",
-      "shortBio": "",
-      "socials": [],
+      "shortBio": "Sierra is a Software Engineer at Clubhouse, based in Cincinnati, OH, focused primarily on native Android.",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/_sierraOBryan",
+          "name": "Twitter"
+        },
+        {
+          "icon": "instagram",
+          "link": "https://www.instagram.com/_sierraOBryan/",
+          "name": "Instagram"
+        }
+      ],
       "order": 0,
       "title": ""
     },
