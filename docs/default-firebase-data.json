@@ -734,6 +734,8 @@
     "pete_gordon": {
       "bio": "Just a Software guy here in town. 🤪😏",
       "company": "UsersFirst",
+      "companyLogo": "",
+      "companyLogoUrl": "",
       "country": "USA",
       "featured": true,
       "name": "Pete Gordon",
