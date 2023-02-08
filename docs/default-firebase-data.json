@@ -243,7 +243,7 @@
               "items": ["108"]
             },
             {
-              "items": []
+              "items": ["116"]
             }
           ]
         },
@@ -465,6 +465,14 @@
       "speakers": ["pete_gordon", "vagish_vela"],
       "tags": ["Workshop"],
       "title": "Coding Dojo - NextJS Focused"
+    },
+    "116": {
+      "complexity": "Beginner",
+      "description": "Build your first Lambda function in nodejs using VSCode, pull json information from an API, store the result in S3, and format the results in an email. This session will cover how to set up your local environment including installing VS code and Docker along with tips and examples how to debug scripts.",
+      "language": "English",
+      "speakers": ["angelo_mandato"],
+      "tags": ["Workshop"],
+      "title": "Your first Lambda function using VSCode - Call an API, store results in S3, send an email"
     }
   },
   "speakers": {
@@ -768,6 +776,28 @@
       ],
       "order": 0,
       "title": "Business Consultant"
+    },
+    "angelo_mandato": {
+      "bio": "Angelo Mandato is an entrepreneur and software architect from Columbus, Ohio. He has been developing solutions on Amazon Web Services since 2007 and is an organizer of the AWS Columbus user group. Angelo holds a bachelors in Computer Science and has various certifications including SCRUM Product Owner and AWS Solutions Architect Associate.",
+      "company": "Mandato",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Columbus, OH",
+      "featured": true,
+      "name": "Angelo Mandato",
+      "photo": "/images/people/placeholder.png",
+      "photoUrl": "/images/people/placeholder.png",
+      "pronouns": "he/him",
+      "shortBio": "Angelo Mandato is an entrepreneur and software architect from Columbus, Ohio.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/angelomandato/",
+          "name": "Linkedin"
+        }
+      ],
+      "order": 0,
+      "title": "Software Architect"
     }
   },
   "team": [
