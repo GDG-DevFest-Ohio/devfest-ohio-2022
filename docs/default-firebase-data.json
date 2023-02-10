@@ -288,7 +288,7 @@
               "items": []
             },
             {
-              "items": []
+              "items": ["117"]
             },
             {
               "items": ["114"]
@@ -473,6 +473,14 @@
       "speakers": ["angelo_mandato"],
       "tags": ["Workshop"],
       "title": "Your first Lambda function using VSCode - Call an API, store results in S3, send an email"
+    },
+    "117": {
+      "complexity": "Beginner",
+      "description": "Knowing your core values is a valuable tool as a manager, as a job searcher, and as a person that wants to ensure they can digest feedback more thoroughly. Come to this session on core values and we will dive into what are core values and how you can use them. Then, we will work through a workshop to define your own personal core values.",
+      "language": "English",
+      "speakers": ["lisa_wilms"],
+      "tags": ["Workshop"],
+      "title": "Identifying your own core values and why this is important + workshop"
     }
   },
   "speakers": {
@@ -794,6 +802,33 @@
           "icon": "linkedin",
           "link": "https://www.linkedin.com/in/angelomandato/",
           "name": "Linkedin"
+        }
+      ],
+      "order": 0,
+      "title": "Software Architect"
+    },
+    "lisa_wilms": {
+      "bio": "At the heart of everything Lisa Wilms does is her passion for people. As the Head of Talent Acquisition at InfoTrust, she has her hands in anything-and-everything related to building a best-place-to-work inclusive culture. At InfoTrust, a privacy-centric digital analytics and technology company, she has been up-close-and-personal with scaling teams during the company's impressive growth and has been pivotal in building foundations for talent acquisition, D&I, ERGs, employee engagement, and more. Lisa is an organizer for GDG Cloud Cincinnati, Cincinnati Web Analytics Wednesday, and is a former Women TechMaker Ambassador—all of which assist in her mission to reach less represented groups and help them break into the exciting world of tech. She has been featured for her skillset in Inc. and Forbes' articles, and loves sharing her experiences and advice at universities whenever they will have her.\nLisa calls the Cincinnati-area home and can be found with her young family frequenting parks, Findlay Market, or anywhere that is stroller-friendly on the weekends.",
+      "company": "InfoTrust",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "OH, USA",
+      "featured": true,
+      "name": "Lisa Wilms",
+      "photo": "/images/people/lisa_wilms.jpeg",
+      "photoUrl": "/images/people/lisa_wilms.jpeg",
+      "pronouns": "she/her",
+      "shortBio": "At the heart of everything Lisa Wilms does is her passion for people. ",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/lisawilms/",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/LisWilms",
+          "name": "Twitter"
         }
       ],
       "order": 0,
